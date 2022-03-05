@@ -11,9 +11,9 @@ Based on analysis of temperature and precipitation for two time periods spaced s
 
     * While temperatures remained relatively steady for both months, precipitation amounts being higher in December could suggest that this might not be a good month for business       as it has the potential of having more rainy days.
 
-    ![temps](https://github.com/agordon16/Surfs_Up/blob/316162febf94a000ad8ed8a05079983de16720de/Resources/Temps.png)
+![temps](https://github.com/agordon16/Surfs_Up/blob/316162febf94a000ad8ed8a05079983de16720de/Resources/Temps.png)
 
-    ![pcrp](https://github.com/agordon16/Surfs_Up/blob/316162febf94a000ad8ed8a05079983de16720de/Resources/PCRP.png)
+![pcrp](https://github.com/agordon16/Surfs_Up/blob/316162febf94a000ad8ed8a05079983de16720de/Resources/PCRP.png)
 
 
 ## Summary
